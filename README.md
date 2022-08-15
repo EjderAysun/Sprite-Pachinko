@@ -28,7 +28,7 @@ On hold; development is paused for now
 
 ---
 ## Contributors
-for pixel-art assets: https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430
+for pixel-art assets: https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430  
 for presto: https://www.youtube.com/watch?v=NVc1bg6Omeo
 
 ---
