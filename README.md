@@ -33,4 +33,4 @@ for pixel-art assets: https://assetstore.unity.com/packages/2d/free-2d-mega-pack
 ---
 ## Licence & Copyright
 © Ejder Aysun, Sprite Pachinko  
-Licensed under the [MIT Licence](https://github.com/EjderAysun/Sprite-Pachinko/blob/main/LICENCE).
+Licensed under the [MIT Licence](https://github.com/EjderAysun/Sprite-Pachinko/blob/main/LICENCE)
