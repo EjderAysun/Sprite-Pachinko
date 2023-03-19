@@ -3,6 +3,7 @@ Made for Unity Essentials - Mission 3.
 
 ---
 ## Table of Contents
+  * [Table of Contents](#table-of-contents)
   * [General Info](#general-info)
   * [Screenshots](#screenshots)
   * [Status](#status)
@@ -20,7 +21,7 @@ Sprite Pachinko is a simple unrealistic physics test made in Unity 2D.
 
 ---
 ## Status
-On hold; development is paused for now
+Released; project is complete, but might receive some updates
 
 ---
 ## Version
