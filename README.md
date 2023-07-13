@@ -17,7 +17,7 @@ Sprite Pachinko is a simple unrealistic physics test made in Unity 2D.
 
 ---
 ## Screenshots
-![Screenshot_4](https://user-images.githubusercontent.com/71559273/184714313-74ba8018-1648-40e4-a8f7-fa59d2fd4f23.png)
+![sprite_pachinko](https://user-images.githubusercontent.com/71559273/184714313-74ba8018-1648-40e4-a8f7-fa59d2fd4f23.png)
 
 ---
 ## Status
